@@ -1,6 +1,8 @@
 To-Do List Project
+
 Overview
-This To-Do List application helps users efficiently manage tasks. Users can add, edit, delete, and mark tasks as completed, providing an easy way to organize daily activities.
+This To-Do List application helps users efficiently manage tasks.
+Users can add, edit, delete, and mark tasks as completed, providing an easy way to organize daily activities.
 
 Features
 Add, edit, and delete tasks
